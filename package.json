@@ -1,0 +1,16 @@
+{
+  "name": "indianbarflyinstabot",
+  "version": "1.0.0",
+  "description": "App to commnet and like posts related to cokctails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyesh Ghamandi",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-web-api": "^2.2.2",
+    "node-fetch": "^2.6.1",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
